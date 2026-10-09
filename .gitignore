@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv*
+.env
+.venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Project data
+backend/data/
+data/uploads/
+data/chroma/
+*.sqlite3
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
